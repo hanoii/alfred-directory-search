@@ -1,0 +1,2 @@
+alfred-directory-search
+=======================
